@@ -1,5 +1,6 @@
 # Wifi-Me-Arm
-The Wifi Controlled Me-Arm
+A Wifi controlled MeArm with Webinterface to control them.
+Using a  ESP2866-Board
 
 # TOOLS
 * A 3D Printer (with 15cm build plate diagonal)
