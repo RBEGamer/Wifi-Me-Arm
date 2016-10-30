@@ -24,6 +24,7 @@ Using a  ESP2866-Board
 * Place the smaller plate with spacers and MeArm at one side of the bigger plate
 
 # Schematic 
+* TODO ADD STUFF
 
 # SOFTWARE SETUP
 
